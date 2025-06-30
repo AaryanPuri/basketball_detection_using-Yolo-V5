@@ -22,7 +22,7 @@ The goal is to detect basketballs in a video stream using the pre-trained YOLOv5
 
 ## Screenshot
 
-![Basketball Detection](Screenshot 2025-06-30 122100](https://github.com/user-attachments/assets/6e173566-e1a3-43b8-b591-b3009e5de57f)
+![Basketball Detection](https://github.com/user-attachments/assets/6e173566-e1a3-43b8-b591-b3009e5de57f)
 
 ---
 
@@ -30,5 +30,5 @@ The goal is to detect basketballs in a video stream using the pre-trained YOLOv5
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/basketball-detection-yolov5.git
+   git clone https://github.com/AaryanPuri/basketball-detection-yolov5.git
    cd basketball-detection-yolov5
