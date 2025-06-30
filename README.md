@@ -1,4 +1,4 @@
-![Screenshot 2025-06-30 122100](https://github.com/user-attachments/assets/6e173566-e1a3-43b8-b591-b3009e5de57f)# 🏀Basketball Detection Using YOLOv5
+# 🏀Basketball Detection Using YOLOv5
 
 This project demonstrates how to detect basketballs in videos using the YOLOv5 object detection model. It leverages the power of PyTorch and OpenCV to perform real-time object detection on video frames.
 
@@ -22,7 +22,7 @@ The goal is to detect basketballs in a video stream using the pre-trained YOLOv5
 
 ## Screenshot
 
-![Basketball Detection](./basketball_detection_sample.png)
+![Basketball Detection](Screenshot 2025-06-30 122100](https://github.com/user-attachments/assets/6e173566-e1a3-43b8-b591-b3009e5de57f)
 
 ---
 
